@@ -1,0 +1,7 @@
+{
+  "phpcs.enable": false,
+  "phpcs.executablePath": "",
+  "phpsab.fixerEnable": false,
+  "phpsab.executablePathCBF": "",
+  "phpsab.executablePathCS": ""
+}
